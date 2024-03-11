@@ -1,0 +1,25 @@
+{
+  "name": "scholarship-manager",
+  "version": "1.0.0",
+  "description": "just a quick manager for me to use to manage what I have done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/givikuna/scholarship-manager.git"
+  },
+  "keywords": [
+    "scholarships",
+    "college",
+    "scholarship",
+    "bruh"
+  ],
+  "author": "Givi Tsvariani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/givikuna/scholarship-manager/issues"
+  },
+  "homepage": "https://github.com/givikuna/scholarship-manager#readme"
+}
